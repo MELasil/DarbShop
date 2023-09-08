@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">درب التسوق</string>
+    <string name="error_title">أُووبس!</string>
+    <string name="button_retry">حاول ثانية</string>
+    <string name="error_message">هناك خطأ ما.</string>
+</resources>
